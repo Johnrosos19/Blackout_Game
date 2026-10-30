@@ -1,0 +1,5 @@
+{
+  "name": "blackout",
+  "version-string": "1.0",
+  "dependencies": [ "glew", "glfw3", "glm" ]
+}
